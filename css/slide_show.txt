@@ -1,0 +1,137 @@
+<div class="menu2">
+<dl>
+<dt>CSS PLaY ~ SLIDE SHOW</dt>
+<dd>Hover the mouse over Set 1, Set 2 or Set 3 above to drop down the projector screen and show a 4x4 array of photographic slides in both portrait and landscape format.</dd>
+<dd>Click the mouse on any of these photographic slides to see the 640 x 480 pixel full size photograph projected onto the screen.<br />NOTE: Opera and Safari users will need to keep the mouse button pressed to see the image.</dd>
+<dd>To close the fullsize photograph click anywhere on the grey projection screen. Opera and Safari users just release the mouse button.</dd>
+<dd>Moving the mouse off the grey projector screen will close the slide selection.</dd>
+</dl>
+<ul>
+<li><a href="#nogo">Set 1
+<!--[if IE 7]><!-->
+</a>
+<!--<![endif]-->
+
+<table><tr><td>
+
+
+<ul>
+<li>
+<a class="horiz" href="#portrait1"><span><img src="slide/pic_1ha.jpg" alt="" title="" /></span><em><img src="slide/pic_1h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait2"><span><img src="slide/pic_1va.jpg" alt="" title="" /></span><em><img src="slide/pic_1v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait3"><span><img src="slide/pic_2va.jpg" alt="" title="" /></span><em><img src="slide/pic_2v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait4"><span><img src="slide/pic_2ha.jpg" alt="" title="" /></span><em><img src="slide/pic_2h.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="vert" href="#portrait5"><span><img src="slide/pic_3va.jpg" alt="" title="" /></span><em><img src="slide/pic_3v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait6"><span><img src="slide/pic_3ha.jpg" alt="" title="" /></span><em><img src="slide/pic_3h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait7"><span><img src="slide/pic_4va.jpg" alt="" title="" /></span><em><img src="slide/pic_4v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait8"><span><img src="slide/pic_4ha.jpg" alt="" title="" /></span><em><img src="slide/pic_4h.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="horiz" href="#portrait9"><span><img src="slide/pic_5ha.jpg" alt="" title="" /></span><em><img src="slide/pic_5h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait10"><span><img src="slide/pic_5va.jpg" alt="" title="" /></span><em><img src="slide/pic_5v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait11"><span><img src="slide/pic_6ha.jpg" alt="" title="" /></span><em><img src="slide/pic_6h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait12"><span><img src="slide/pic_6va.jpg" alt="" title="" /></span><em><img src="slide/pic_6v.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="horiz" href="#portrait13"><span><img src="slide/pic_7ha.jpg" alt="" title="" /></span><em><img src="slide/pic_7h.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait14"><span><img src="slide/pic_8ha.jpg" alt="" title="" /></span><em><img src="slide/pic_8h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait15"><span><img src="slide/pic_7va.jpg" alt="" title="" /></span><em><img src="slide/pic_7v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait16"><span><img src="slide/pic_8va.jpg" alt="" title="" /></span><em><img src="slide/pic_8v.jpg" alt="" title="" /></em></a>
+</li>
+</ul>
+
+</td></tr></table>
+
+<!--[if lte IE 6]>
+</a>
+<![endif]-->
+
+</li>
+
+
+
+<li><a href="#nogo">Set 2
+<!--[if IE 7]><!-->
+</a>
+<!--<![endif]-->
+
+<table><tr><td>
+
+
+	<ul>
+	<li>
+<a class="vert" href="#portrait1"><span><img src="slide/pic_9va.jpg" alt="" title="" /></span><em><img src="slide/pic_9v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait2"><span><img src="slide/pic_9ha.jpg" alt="" title="" /></span><em><img src="slide/pic_9h.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait3"><span><img src="slide/pic_10ha.jpg" alt="" title="" /></span><em><img src="slide/pic_10h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait4"><span><img src="slide/pic_10va.jpg" alt="" title="" /></span><em><img src="slide/pic_10v.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="horiz" href="#portrait5"><span><img src="slide/pic_11ha.jpg" alt="" title="" /></span><em><img src="slide/pic_11h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait6"><span><img src="slide/pic_11va.jpg" alt="" title="" /></span><em><img src="slide/pic_11v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait7"><span><img src="slide/pic_12va.jpg" alt="" title="" /></span><em><img src="slide/pic_12v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait8"><span><img src="slide/pic_12ha.jpg" alt="" title="" /></span><em><img src="slide/pic_12h.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="horiz" href="#portrait9"><span><img src="slide/pic_13ha.jpg" alt="" title="" /></span><em><img src="slide/pic_13h.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait10"><span><img src="slide/pic_14ha.jpg" alt="" title="" /></span><em><img src="slide/pic_14h.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait11"><span><img src="slide/pic_15ha.jpg" alt="" title="" /></span><em><img src="slide/pic_15h.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait12"><span><img src="slide/pic_16ha.jpg" alt="" title="" /></span><em><img src="slide/pic_16h.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="vert" href="#portrait13"><span><img src="slide/pic_13va.jpg" alt="" title="" /></span><em><img src="slide/pic_13v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait14"><span><img src="slide/pic_14va.jpg" alt="" title="" /></span><em><img src="slide/pic_14v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait15"><span><img src="slide/pic_15va.jpg" alt="" title="" /></span><em><img src="slide/pic_15v.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait16"><span><img src="slide/pic_16va.jpg" alt="" title="" /></span><em><img src="slide/pic_16v.jpg" alt="" title="" /></em></a>
+	</li>
+	</ul>
+
+</td></tr></table>
+
+<!--[if lte IE 6]>
+</a>
+<![endif]-->
+
+</li>
+
+<li><a href="#Birds">Set 3
+<!--[if IE 7]><!-->
+</a>
+<!--<![endif]-->
+
+<table><tr><td>
+
+
+	<ul>
+	<li>
+<a class="horiz" href="#portrait1"><span><img src="slide/pic_17ha.jpg" alt="" title="" /></span><em><img src="slide/pic_17h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait2"><span><img src="slide/pic_17va.jpg" alt="" title="" /></span><em><img src="slide/pic_17v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait3"><span><img src="slide/pic_18ha.jpg" alt="" title="" /></span><em><img src="slide/pic_18h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait4"><span><img src="slide/pic_18va.jpg" alt="" title="" /></span><em><img src="slide/pic_18v.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="vert" href="#portrait5"><span><img src="slide/pic_19va.jpg" alt="" title="" /></span><em><img src="slide/pic_19v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait6"><span><img src="slide/pic_19ha.jpg" alt="" title="" /></span><em><img src="slide/pic_19h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait7"><span><img src="slide/pic_20va.jpg" alt="" title="" /></span><em><img src="slide/pic_20v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait8"><span><img src="slide/pic_20ha.jpg" alt="" title="" /></span><em><img src="slide/pic_20h.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="horiz" href="#portrait9"><span><img src="slide/pic_21ha.jpg" alt="" title="" /></span><em><img src="slide/pic_21h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait10"><span><img src="slide/pic_21va.jpg" alt="" title="" /></span><em><img src="slide/pic_21v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait11"><span><img src="slide/pic_22ha.jpg" alt="" title="" /></span><em><img src="slide/pic_22h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait12"><span><img src="slide/pic_22va.jpg" alt="" title="" /></span><em><img src="slide/pic_22v.jpg" alt="" title="" /></em></a>
+<span class="clr"></span>
+<a class="vert" href="#portrait13"><span><img src="slide/pic_23va.jpg" alt="" title="" /></span><em><img src="slide/pic_23v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait14"><span><img src="slide/pic_23ha.jpg" alt="" title="" /></span><em><img src="slide/pic_23h.jpg" alt="" title="" /></em></a>
+<a class="vert" href="#portrait15"><span><img src="slide/pic_24va.jpg" alt="" title="" /></span><em><img src="slide/pic_24v.jpg" alt="" title="" /></em></a>
+<a class="horiz" href="#portrait16"><span><img src="slide/pic_24ha.jpg" alt="" title="" /></span><em><img src="slide/pic_24h.jpg" alt="" title="" /></em></a>
+	</li>
+	</ul>
+
+</td></tr></table>
+
+<!--[if lte IE 6]>
+</a>
+<![endif]-->
+
+</li>
+
+
+</ul>
+
+<div class="clear">&nbsp;</div>
+
+</div>
