@@ -158,7 +158,7 @@ setTimeout("display()",5500)
 }
 
 </style>
-<title>Donald Gabriel Miller-A Tribute!</title>
+<title>Donald G. Miller-A Tribute!</title>
 <!--<link rel="stylesheet" type="stylesheet" href="css/style.css" />-->
 <style type="text/css">
 </style>
