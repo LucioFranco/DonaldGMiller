@@ -1,7 +1,7 @@
 <?php 
 $module = $_GET['page'];
 if($module=='')$module='home';
-if(($module!='home')&&($module!='tributestodon')&&($module!='science')&&($module!='localpilitics')&&($module!='thearts')&&($module!='family')&&($module!='ballistics')&&($module!='judaism')&&($module!='1')&&($module!='susan')&&($module!='lynne')&&($module!='nancy')&&($module!='joan')&&($module!='joe')&&($module!='joe')&&($module!='lab')&&($module!='tributes')&&($module!='politics')&&($module!='science')&&($module!='judaism')&&($module!='marshall')&&($module!='sciencehome')&&($module!='history')&&($module!='arts')&&($module!='independent')&&($module!='donssayings')&&($module!='familyimage')&&($module!='balistics')&&($module!='donandmiriam')&&($module!='donandparents')&&($module!='familyslide')&&($module!='politicsslide')&&($module!='slide')&&($module!='form'))$module='404';
+if(($module!='home')&&($module!='tributestodon')&&($module!='science')&&($module!='localpilitics')&&($module!='thearts')&&($module!='family')&&($module!='ballistics')&&($module!='judaism')&&($module!='1')&&($module!='susan')&&($module!='lynne')&&($module!='nancy')&&($module!='joan')&&($module!='joe')&&($module!='joe')&&($module!='lab')&&($module!='tributes')&&($module!='politics')&&($module!='science')&&($module!='judaism')&&($module!='marshall')&&($module!='sciencehome')&&($module!='history')&&($module!='arts')&&($module!='independent')&&($module!='donssayings')&&($module!='familyimage')&&($module!='balistics')&&($module!='donandmiriam')&&($module!='donandparents')&&($module!='familyslide')&&($module!='politicsslide')&&($module!='slide')&&($module!='form')&&($module!='dagerman'))$module='404';
 ?>
 	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 
