@@ -1,6 +1,0 @@
-<Files config.php>  
-  deny from all
-</Files>
-<Files authenticate.php>  
-  deny from all
-</Files>
