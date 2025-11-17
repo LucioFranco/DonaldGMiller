@@ -1,0 +1,13 @@
+[book]
+title = "Donald G. Miller: A Tribute"
+authors = ["Lucio Franco", "Family and Friends"]
+description = "A memorial website celebrating the life of Donald Gabriel Miller (1927-2012)"
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "light"
+git-repository-url = "https://github.com/luciofranco/DonaldGMiller"
