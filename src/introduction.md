@@ -1,0 +1,19 @@
+# Introduction
+
+## Why This Website?
+
+This website was the brainchild of Lucio Daniele Franco, Don Miller's grandson, who wanted to pay tribute to the only grandfather he knew and to build his website design skills. But it is also the collective effort of many individuals: Don's wife, his children and grandchildren, his colleagues and his friends.
+
+This website offers us all an opportunity to collect and appreciate his accomplishments, and share the experiences and love that we feel for Don Miller - husband, father, grandfather, scientist, activist, elected politician, musician and music lover, Jew, environmentalist, and friend. This site belongs to all those who knew him. To quote Kahil Gibran "To live in the heart of those we leave behind is not to die" -- Donald G. Miller, we will never forget you.
+
+We invite you to browse through the various pages of this site, remember the sides to Don Miller that you knew, and discover other sides to him that perhaps you did not know.
+
+---
+
+![Donald G. Miller](images/cover.jpg)
+
+**Donald G. Miller** was a many-faceted man. A highly respected scientist, his work in physical chemistry was known around the world. He was a life-long civic activist, whose 50 years of determined participation in local politics had significant impacts on life in Livermore and the Livermore Valley. He was a founding member of and an active participant in Congregation Beth Emek. He authored 174 papers. His interests ranged from ragtime and classical music to shooting and ballistics. And, he was both loved and highly respected by his family and multitude of friends.
+
+Born and raised in Oakland, California, he spent all but 8 of his 84 years in the Bay Area. He graduated from the University of California, Berkeley in 1949, with a B.S. with honors in chemistry and earned his Ph.D. from the University of Illinois, Urbana-Champaign in 1952. He spent most of his scientific career as a research chemist at the Lawrence Livermore National Laboratory. He was awarded a Fulbright Fellowship in 1960-61, spending the school year teaching at two universities in Lille, France. He also taught at a number of universities around the world over the course of his life.
+
+Livermore's numerous parks, undeveloped hillsides, fountains, charming downtown with cultural spaces, and lack of distracting signs are just a few of the testimonials to Donald Miller's civic activism. He fought against unlimited development, seeking to protect the area's air, water, open space and natural beauty.
