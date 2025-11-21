@@ -9,8 +9,3 @@ Don always defined himself as an "agnostic with atheist tendencies". He made sur
 He was a founding member of Congregation Beth Emek in the Livermore Valley, and over time became a very active participant in the congregation.
 
 He provided wise counsel to the leadership, and made his particular skills available whenever there was a need.
-
-## Related Documents
-
-- [Congregation Beth Emek President's statement about Don Miller](../appendix/beth-emek-statement.md) - Statement to the Board shortly after his death
-- [Drawing Near to God](../appendix/drawing-near-god.md) - Document Don prepared for a debate in 2010
